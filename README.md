@@ -1,6 +1,6 @@
 
 # AI Gym Tracker
-...
+This project was created for the Multimodal Interaction course. Sapienza University of Rome.
 
 
 ## Project Structure
